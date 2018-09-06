@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="kFOCUS">A</string>
+    <string name="kFOCUS_END">B</string>
+    <string name="kSHUTTER">C</string>
+    <string name="kSHUTTER_END">D</string>
+    <string name="kTIMEDMODE">E</string>
+    <string name="kTIMEDMODE_END">F</string>
+</resources>
